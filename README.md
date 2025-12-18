@@ -2,7 +2,7 @@
 
 A deep learning–based plant disease classification system that predicts potato leaf diseases from images using a trained TensorFlow/Keras CNN model and a Streamlit web interface.
 
-![Preview](./images/ui.png)
+![Preview](./images/plant_ui.png)
 
 ---
 
