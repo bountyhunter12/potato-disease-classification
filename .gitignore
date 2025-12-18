@@ -1,0 +1,19 @@
+# virtual environments
+venv/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# model files (too big)
+*.h5
+*.keras
+trained_model/
+models/
+
+# system
+.DS_Store
+
+# env files
+.env
